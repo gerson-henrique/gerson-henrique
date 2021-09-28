@@ -1,4 +1,3 @@
-<div align="center">
 
   ## Prazer! eu sou o Gero!
 
