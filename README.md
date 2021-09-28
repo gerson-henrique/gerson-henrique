@@ -9,7 +9,8 @@
 
 
   <a href="https://github.com/gerson-henrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gerson-henrique&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gerson-henrique&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/> 
   <img alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/876950923174379611/892502688070238339/Webp.net-gifmaker.gif?width=395&height=395">
   
 </div>
