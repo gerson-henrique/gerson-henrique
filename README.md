@@ -25,9 +25,11 @@
    <img align="center" alt="Gero-PS" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/552/552220.png">
   <img align="center" alt="Gero-XD" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/552/552224.png">
   <img align="center" alt="Gero-AI" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/552/552222.png"> 
-  
-  ###### Estudando no Momento  🟪🟩  Learning at the Moment
-  </div>
+      </div>
+
+ ##
+
+   Estudando no Momento  🟪🟩  Learning at the Moment
 
   
 
@@ -35,5 +37,5 @@
  
 </div>
 
-   ##   
+   
  
