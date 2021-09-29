@@ -2,37 +2,48 @@
   ## Prazer! eu sou o Gero!
 
   
-🟢 Estudante de Desenvolvimento Web Full Stack na Trybe.  <br/><br/>
-🟣 Estudante de Design Gráfico na Uninter.
+###### 🟢 Estudante de Desenvolvimento Web Full Stack na Trybe. 🟣 Estudante de Design Gráfico na Uninter.
 
 
+[comment]: < Commits enviados e animação > 
 
-
-  <a href="https://github.com/gerson-henrique">
+<div>
+  <a href="https://github.com/gerson-henrique">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gerson-henrique&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/><img alt="Gero-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/876950923174379611/892502688070238339/Webp.net-gifmaker.gif?width=395&height=395">
+  </a>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gerson-henrique&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/> 
-  <img alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/876950923174379611/892502688070238339/Webp.net-gifmaker.gif?width=395&height=395">
+  
+  
+##
+  
+###### 💚 Me Segue 💜
+
+  
+   <a href="https://instagram.com/gerson.h.o" target="_blank"><img src="https://img.shields.io/badge/-behance-%23946CE8?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gersonhoa@gmail.com"><img src="https://img.shields.io/badge/-Send me a Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gerson-henrique-oliveira-almeida-b46693204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://instagram.com/gerson.h.o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5564996130157&text=Ol%C3%A1,%20Gero!%20" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%2362C829?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+
+## 
+  
+###### 🟩 Atualmente trabalhando com  🟪
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Gero-JS" height="40" width="40" src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png)">
+  <img align="center" alt="Gero-HTML" height="40" width="40" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png">
+  <img align="center" alt="Gero-CSS" height="40" width="40" src="https://api.badgr.io/public/badges/_a_0p_sUQdG1TxAPt2MftA/image">
+   <img align="center" alt="Gero-PS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/552/552220.png">
+  <img align="center" alt="Gero-XD" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/552/552224.png">
+  <img align="center" alt="Gero-AI" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/552/552222.png">
+</div>
+  
   
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- 
-</div>
+
+
+
+
   
-  ##
+  
  
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
