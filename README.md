@@ -3,22 +3,23 @@
 
   
 ###### 🟢 Estudante de Desenvolvimento Web Full Stack na Trybe. 🟣 Estudante de Design Gráfico na Uninter.
-###### 🟢 Full Stack Web Development Student at Trybe. 🟣 Graphic Design Student at "International Center".
+###### 🟢 Full Stack Web Development Student at Trybe.          🟣 Graphic Design Student at Uninter.
 
 
 
 
 </div>
 <div>
+     <a href="https://instagram.com/gerson.h.o" target="_blank"><img src="https://img.shields.io/badge/-My Art-%23946CE8?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gersonhoa@gmail.com"><img src="https://img.shields.io/badge/-My Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gerson-henrique-oliveira-almeida-b46693204/" target="_blank"><img src="https://img.shields.io/badge/-My Work-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://instagram.com/gerson.h.o" target="_blank"><img src="https://img.shields.io/badge/-my life-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5564996130157&text=Ol%C3%A1,%20Gero!%20" target="_blank"><img src="https://img.shields.io/badge/-My number-%2362C829?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> </div>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerson-henrique&layout=compact&langs_count=7&theme=ocean_dark"/>
   <a href="https://github.com/gerson-henrique">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gerson-henrique&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   
-   <a href="https://instagram.com/gerson.h.o" target="_blank"><img src="https://img.shields.io/badge/-Follow me on behance-%23946CE8?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gersonhoa@gmail.com"><img src="https://img.shields.io/badge/-My Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gerson-henrique-oliveira-almeida-b46693204/" target="_blank"><img src="https://img.shields.io/badge/-Follow me on LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://instagram.com/gerson.h.o" target="_blank"><img src="https://img.shields.io/badge/-Follow me on Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5564996130157&text=Ol%C3%A1,%20Gero!%20" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%2362C829?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> </div>
 
    
   <div style="display: inline_block"><br>
