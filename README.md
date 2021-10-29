@@ -34,6 +34,7 @@
   <img align="center" alt="Gero-AI" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/552/552222.png"> 
       </div>
 <br><br>
+<img src="https://www.codewars.com/users/SrJavali/badges/large">  
 <img alt="Gero-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/876950923174379611/892502688070238339/Webp.net-gifmaker.gif?width=395&height=395">
   </a>
  
