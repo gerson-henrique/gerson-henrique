@@ -23,11 +23,7 @@
 
    
   <div style="display: inline_block"><br>
-   
-  ###### Ferramentas 🟪🟩  Tools
-    
-    
-  
+<img src="https://www.codewars.com/users/SrJavali/badges/large">  <br>
   <img align="center" alt="Gero-JS" height="40" width="40" src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png)">
   <img align="center" alt="Gero-HTML" height="40" width="40" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png">
   <img align="center" alt="Gero-CSS" height="40" width="40" src="https://api.badgr.io/public/badges/_a_0p_sUQdG1TxAPt2MftA/image">
@@ -36,7 +32,7 @@
   <img align="center" alt="Gero-AI" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/552/552222.png"> 
   <img align="center" alt="Gero-Materialize" height="30" width="35" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png">  
   </div>
-<img src="https://www.codewars.com/users/SrJavali/badges/large">  
+<br>
 <img alt="Gero-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/876950923174379611/892502688070238339/Webp.net-gifmaker.gif?width=395&height=395">
   </a>
  
