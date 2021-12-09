@@ -16,11 +16,6 @@
  <a href="https://instagram.com/gerson.h.o" target="_blank"><img src="https://img.shields.io/badge/-my life-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5564996130157&text=Ol%C3%A1,%20Gero!%20" target="_blank"><img src="https://img.shields.io/badge/-My number-%2362C829?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> </div>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerson-henrique&layout=compact&langs_count=7&theme=ocean_dark"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gerson-henrique&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  
-
    
   <div style="display: inline_block"><br>
 <img src="https://www.codewars.com/users/SrJavali/badges/large">  <br>
