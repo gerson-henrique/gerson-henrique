@@ -18,7 +18,6 @@
 
    
   <div style="display: inline_block"><br>
-<img src="https://www.codewars.com/users/SrJavali/badges/large">  <br>
   <img align="center" alt="Gero-JS" height="40" width="40" src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png)">
   <img align="center" alt="Gero-HTML" height="40" width="40" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png">
   <img align="center" alt="Gero-CSS" height="40" width="40" src="https://api.badgr.io/public/badges/_a_0p_sUQdG1TxAPt2MftA/image">
