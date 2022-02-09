@@ -15,6 +15,7 @@ Meu objetivo atual é atuar e me aprofundar como desenvolvedor Front-End em um a
   <a href="https://api.whatsapp.com/send?phone=5564996130157&text=Ol%C3%A1,%20Gero!%20" target="_blank"><img src="https://img.shields.io/badge/-My number-%2362C829?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 <div>
+  
 
   
   
@@ -76,19 +77,21 @@ Meu objetivo atual é atuar e me aprofundar como desenvolvedor Front-End em um a
 </div>
   <div>
      
+   
+   [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
+
+  
+  
 <p align="center">
-  
-  [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
-  
-  
+
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="	https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-design&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
   
   
@@ -97,15 +100,15 @@ Meu objetivo atual é atuar e me aprofundar como desenvolvedor Front-End em um a
 </p>
 
 
-
+   
  
-
-
+    
   <p align="center"> 
 <a href="https://github.com/jeniblodev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gerson-henrique&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gerson-henrique&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
-
+    
+  
  
