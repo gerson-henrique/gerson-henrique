@@ -4,6 +4,8 @@
 
 <div>
 🇧🇷 Meu objetivo atual é atuar e me aprofundar como desenvolvedor Front-End em um ambiente onde possa crescer profissionalmente e desenvolver novas conexões.
+   
+   <br>
 
 🇺🇸  My current goal is to act and deepen as a Front-End developer in an environment where I can grow professionally and develop new connections.
    
