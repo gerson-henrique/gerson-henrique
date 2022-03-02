@@ -3,9 +3,10 @@
 <img  align="right" alt="Gero-pic" height="160" style="border-radius:50px;" src="https://media.discordapp.net/attachments/876950923174379611/892502688070238339/Webp.net-gifmaker.gif?width=395&height=395">
 
 <div>
-  
-  
-Meu objetivo atual é atuar e me aprofundar como desenvolvedor Front-End em um ambiente onde possa crescer profissionalmente e desenvolver novas conexões. Atualmente meu ponto forte é React, RTL e Redux.
+🇧🇷 Meu objetivo atual é atuar e me aprofundar como desenvolvedor Front-End em um ambiente onde possa crescer profissionalmente e desenvolver novas conexões.
+
+🇺🇸  My current goal is to act and deepen as a Front-End developer in an environment where I can grow professionally and develop new connections.
+   
 </div>
 
 <center><div>
