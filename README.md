@@ -7,7 +7,7 @@
    
    <br>
 
-🇺🇸  My current goal is to act and deepen as a developer in an environment where I can grow professionally and develop new connections with passionate and trained professionals. 
+🇺🇸  My current goal is to act and improve as a developer in an environment where I can grow professionally and develop new connections with passionate and trained professionals. 
 
    
 </div>
