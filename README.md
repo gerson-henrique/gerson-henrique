@@ -40,7 +40,7 @@
  ```
 
 
-✅ **Front-end**
+✔️  **Front-end**
 
  ```
  ✅ Api consumption
