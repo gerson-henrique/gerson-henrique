@@ -40,7 +40,7 @@
  ```
 
 
-🔵 **Front-end**
+✅ **Front-end**
 
  ```
  ✅ Api consumption
@@ -51,14 +51,14 @@
  ✅ Agile methoods
  ✅ React testing library
  ✅ React redux
- 🔵 Context api
- ⌛ React Hooks
+ ✅ Context api
+ ✅ React Hooks
  ```
 
-⌛ **Back-end**
+🔵 **Back-end**
 
  ```
- ⌛ Docker
+ 🔵 Docker
  ⌛ SQL
  ⌛ Node.js (Archtecture: Rest and Restful, ORM and Authentication)
  ⌛ Deployment
