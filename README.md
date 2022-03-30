@@ -58,8 +58,8 @@
 🔵 **Back-end**
 
  ```
- 🔵 Docker
- ⌛ SQL
+ ✅ Docker
+ 🔵 SQL
  ⌛ Node.js (Archtecture: Rest and Restful, ORM and Authentication)
  ⌛ Deployment
  ⌛ Typescript
@@ -98,6 +98,7 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=red">
+  <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=blue">
   
   
   
