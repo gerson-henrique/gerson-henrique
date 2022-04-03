@@ -91,13 +91,13 @@
 
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=#F7DF1E">
   <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=#E34F26">
-  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=#1572B6">
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB">
   <img src="https://img.shields.io/badge/Material--UI-20232A?style=for-the-badge&logo=material-design&logoColor=#757575">
-  <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=#764ABC">
+  <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=purple">
   <img src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=#CA4245">
   <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=#F05032">
-  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=#007396">
+  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=red">
   <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=#2496ED">
   <img src="https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql&logoColor=#4479A1">
   
