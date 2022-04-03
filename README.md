@@ -89,16 +89,17 @@
   
 <p align="center">
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-design&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=red">
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow">
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=orange">
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=blue">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=blue">
+  <img src="https://img.shields.io/badge/Material--UI-20232A?style=for-the-badge&logo=material-design&logoColor=blue">
+  <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=purple">
+  <img src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=red">
+  <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=red">
+  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=red">
   <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=blue">
+  <img src="https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql&logoColor=blue">
   
   
   
