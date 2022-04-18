@@ -59,8 +59,8 @@
 
  ```
  ✅ Docker
- 🔵 SQL
- ⌛ Node.js (Archtecture: Rest and Restful, ORM and Authentication)
+ ✅ SQL
+ 🔵 Node.js (Archtecture: Rest and Restful, ORM and Authentication)
  ⌛ Deployment
  ⌛ Typescript
  ⌛ POO and Solid 
