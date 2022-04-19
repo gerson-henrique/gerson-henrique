@@ -89,7 +89,7 @@
   
 <p align="center">
 
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=#F7DF1E">
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=#E34F26">
   <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB">
@@ -100,6 +100,11 @@
   <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=red">
   <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=#2496ED">
   <img src="https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql&logoColor=#4479A1">
+  <img src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=#339933">
+  <img src="https://img.shields.io/badge/Mocha-20232A?style=for-the-badge&logo=mocha&logoColor=#8D6748">
+  <img src="https://img.shields.io/badge/Chai-20232A?style=for-the-badge&logo=chai">
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=#339933">
+  <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=#555555">
   
   
   
