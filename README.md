@@ -60,10 +60,10 @@
  ```
  ✅ Docker
  ✅ SQL
- 🔵 Node.js (Archtecture: Rest and Restful, ORM and Authentication)
- ⌛ Deployment
- ⌛ Typescript
- ⌛ POO and Solid 
+ ✅ Node.js (Archtecture: Rest and Restful, ORM and Authentication)
+ ✅ Deployment
+ ✅ Typescript
+ 🔵 POO and Solid 
  ⌛ MongoDB
  ⌛ VPS CI/CD
  ```
