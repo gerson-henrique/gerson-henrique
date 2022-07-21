@@ -8,8 +8,8 @@
    <br>
 
 🇺🇸  My current goal is to act and improve as a developer in an environment where I can grow professionally and develop new connections with passionate and trained professionals. 
-
-   
+<br>
+   🇪🇸 Mi objetivo actual es actuar y mejorar como desarrollador en un entorno donde pueda crecer profesionalmente y desarrollar nuevas conexiones con profesionales apasionados y capacitados.
 </div>
 
 <center><div>
