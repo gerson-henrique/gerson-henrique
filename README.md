@@ -3,13 +3,19 @@
 <img  align="right" alt="Gero-pic" height="160" style="border-radius:50px;" src="https://media.discordapp.net/attachments/876950923174379611/892502688070238339/Webp.net-gifmaker.gif?width=395&height=395">
 
 <div>
+<div>
 🇧🇷 Meu objetivo atual é atuar e me aprofundar como desenvolvedor em um ambiente onde possa crescer profissionalmente e desenvolver novas conexões.
-   
+</div>   
    <br>
-
+<div>
 🇺🇸  My current goal is to act and improve as a developer in an environment where I can grow professionally and develop new connections with passionate and trained professionals. 
+</div>
 <br>
-   🇪🇸 Mi objetivo actual es actuar y mejorar como desarrollador en un entorno donde pueda crecer profesionalmente y desarrollar nuevas conexiones con profesionales apasionados y capacitados.
+<div>
+   🇪🇸 Mi objetivo actual es actuar y mejorar como desarrollador en un entorno donde pueda crecer profesionalmente y desarrollar nuevas conexiones con 
+   profesionales apasionados y capacitados.
+   
+   </div>
 </div>
 
 <center><div>
