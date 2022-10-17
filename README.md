@@ -1,4 +1,6 @@
 
+[![@gero's Holopin board](https://holopin.me/gero)](https://holopin.io/@gero)
+  
 ## Bem vind@!
 <img  align="right" alt="Gero-pic" height="160" style="border-radius:50px;" src="https://media.discordapp.net/attachments/876950923174379611/892502688070238339/Webp.net-gifmaker.gif?width=395&height=395">
 
@@ -17,6 +19,8 @@
    
    </div>
 </div>
+
+
 
 <center><div>
   <a href = "mailto:gersonhoa@gmail.com"><img src="https://img.shields.io/badge/-My Mail-%23946CE8?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -127,5 +131,4 @@
 </a>
 </p>
     
-  
  
